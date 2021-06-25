@@ -32,6 +32,7 @@ app.post("/", function (req, res) {
   const options = {
     method: "POST",
     auth: "maurito:fed9dc017778d197cfa1914ae2be6ec2-us6",
+    //not enabled anymore since its public
   };
 
   const request = https.request(url, options, function (response) {
