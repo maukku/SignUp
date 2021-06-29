@@ -4,6 +4,6 @@ Sign up page for the erasmus students association of my University, for the Back
 
 For the Front-End was used HTML, CSS and Bootstrap.The website was  hosted through Heroku
 
-The sensitive data such as API Keys have been modified from the Github file, the app.js file has been used merely to display the source code.
+The sensitive data from  "app.js"  such as API Keys have been modified from the Github file, it has been used merely to display the source code.
 
 test: https://gyazo.com/6f5afad0010205bb554766711493b294
